@@ -1,15 +1,4 @@
 # Projeto - nodetemplate
-
-Isto é um exemplo de estrutura organizacional dos aqruivos em um projeto node.js\
-Passos executados em sequência direta:\
-Instação dos plugins eslint e prettier\
-Iniciação do git e criação do gitignore\
-Criação do arquivo editorconfig\
-Instalação do TS\
-Confiuração Eslint e Prettier\
-Dotenv\
-Scripts para desenvovimento e produção\
-
 1) plugins vscode: eslint prettier, eslint, editorconfig.
 	configurar - ctrl + shift + p
 	preferences open user
@@ -17,8 +6,7 @@ Scripts para desenvovimento e produção\
 	[x] editor format on save
 --------------------------------------------------------------
 2) criar arquivo editor config.
-	root = true
-[*]
+root = true
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -29,12 +17,12 @@ insert_final_newline = false
 3) git init
 	criar git ignore
 -----------------------------------------------------------------
-4)yarn init -y
+4) yarn init -y
 -----------------------------------------------------------------
-5)instalar typescript
+5) instalar typescript
 	yarn add -D typescript
 --------------------------------------------------------------------
-6)yarn tsc --init, ou criar manualmente tsconfig.json
+6) yarn tsc --init, ou criar manualmente tsconfig.json
 {"compilerOptions": {
   "target": "es2019",
   "module": "commonjs",
@@ -45,7 +33,7 @@ insert_final_newline = false
   "outDir": "./dist"
 }}
 -------------------------------------------------------------------
-7)yarn add -D eslint
+7) yarn add -D eslint
 	yarn eslint --init
 	responder as perguntas, instalar o que for preciso com npm
 	após ter instalado excluir package-lock e yarn.lock
