@@ -1,4 +1,4 @@
-Este repositório tem como objetivo mostrar a configuração básica de um projeto TS.
+Este repositório tem como objetivo mostrar a configuração básica de um "projeto" TS.
 A medida em que for aprimorando minhas habilidades em desenvolvimento web e aprendendo a utilidade de novas ferramentas, irei adicionar aqui.
 Qualquer critica ou sugestão de mudanças são bem vindas.
 
