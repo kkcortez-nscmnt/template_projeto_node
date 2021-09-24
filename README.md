@@ -1,4 +1,12 @@
-# Projeto - nodetemplate
+Este repositório tem como objetivo mostrar a configuração básica de um projeto TS.
+A medida em que for aprimorando minhas habilidades em desenvolvimento web e aprendendo a utilidade de novas ferramentas, irei adicionar aqui.
+Qualquer critica ou sugestão de mudanças são bem vindas.
+
+
+![área](https://user-images.githubusercontent.com/69372682/134607963-7b2d4056-ab28-4a5c-b84b-20a49b71253b.gif)
+
+
+## Projeto - template_projeto_
 1) plugins vscode: eslint prettier, eslint, editorconfig.
 	configurar - ctrl + shift + p
 	preferences open user
